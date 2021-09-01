@@ -3,4 +3,5 @@
 *.csv
 tokens.py
 analyzer
+spot_gui.py
 __pycache__
